@@ -6,7 +6,9 @@
   "version": "1.0.0",
   "main": "app.js",
   "devDependencies": {},
-  "scripts": {},
+  "scripts": {
+    "start": "app.js"
+  } ,
   "author": "",
   "license": "ISC",
   "description": ""
