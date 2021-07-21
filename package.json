@@ -6,7 +6,13 @@
   "version": "1.0.0",
   "main": "app.js",
   "devDependencies": {},
+<<<<<<< HEAD
   "scripts": {},
+=======
+  "scripts": {
+   
+  },
+>>>>>>> d24195a95496e45fe7e19dbb34d735c2d89a6cc3
   "author": "",
   "license": "ISC",
   "description": ""
