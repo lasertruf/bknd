@@ -8,6 +8,4 @@ app.set('port',port);
 const server = http.createServer(app);
 console.log("Running")
 
-
-
 server.listen(port);
